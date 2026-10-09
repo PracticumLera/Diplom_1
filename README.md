@@ -39,23 +39,26 @@
 - **JaCoCo 0.8.15** — анализ покрытия кода
 
 ## 📁 Структура проекта
+
+```
 src/
 ├── main/java/praktikum/
-│ ├── Burger.java
-│ ├── Bun.java
-│ ├── Ingredient.java
-│ ├── IngredientType.java
-│ ├── Database.java
-│ └── Praktikum.java
+│   ├── Burger.java
+│   ├── Bun.java
+│   ├── Ingredient.java
+│   ├── IngredientType.java
+│   ├── Database.java
+│   └── Praktikum.java
 └── test/java/praktikum/
-├── BurgerTest.java
-├── BurgerPriceParameterizedTest.java
-├── BurgerRemovePositiveTest.java
-├── BurgerRemoveNegativeTest.java
-├── BurgerMovePositiveTest.java
-├── BurgerMoveNegativeTest.java
-├── BunTest.java
-└── IngredientTest.java
+    ├── BurgerTest.java
+    ├── BurgerPriceParameterizedTest.java
+    ├── BurgerRemovePositiveTest.java
+    ├── BurgerRemoveNegativeTest.java
+    ├── BurgerMovePositiveTest.java
+    ├── BurgerMoveNegativeTest.java
+    ├── BunTest.java
+    └── IngredientTest.java
+```
 
 ## 🧪 Тестовые классы
 
