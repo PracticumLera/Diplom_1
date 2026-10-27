@@ -1,0 +1,28 @@
+# IntelliJ IDEA
+.idea/
+*.iml
+*.iws
+*.ipr
+out/
+
+# Maven
+target/classes/
+target/maven-status/
+target/surefire-reports/
+target/test-classes/
+target/jacoco.exec
+
+# Java
+*.class
+*.jar
+*.war
+*.ear
+
+# OS
+.DS_Store
+Thumbs.db
+*.swp
+*~
+
+# Логи
+*.log
